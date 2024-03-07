@@ -1,2 +1,1 @@
-# QuantumAnnealingBinarizedNeuralNetworks
-Quantum Annealing Binarized Neural Networks
+This is a repository for Quantum Annealing Binarized Neural Networks
